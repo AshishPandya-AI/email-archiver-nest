@@ -1,0 +1,12 @@
+```gitignore
+.env
+token/
+credentials/
+node_modules/
+dist/
+
+__pycache__/
+*.pyc
+*.db
+.idea/
+.vscode/
