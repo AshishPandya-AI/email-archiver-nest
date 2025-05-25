@@ -154,7 +154,7 @@ npm run start:dev
 
 ## 📹 Loom Walkthrough
 
-🎥 [Click to watch the demo (face visible)](https://loom.com/share/your-video-link)
+🎥 [Click to watch the demo](https://www.loom.com/share/e17e0c636f6d4f1c98a48a51f296abba?sid=7665ac7c-1431-4d56-9eb9-d1cf741994e4)
 
 ---
 
